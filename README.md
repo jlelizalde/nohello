@@ -1,6 +1,6 @@
 # Nohello
 
-This is the source of [this](https://sbmueller.github.io/nohello/) website.
+Spanish translation of [this site](https://sbmueller.github.io/nohello/), you can see the end result [here](https://github.io/jlelizalde/nohello).
 
 ## Build
 
@@ -13,6 +13,4 @@ generate-md --layout=github --input index.md --output .
 
 ## Acknowledgements
 
-This website was inspired by the original at nohello.com. Acknowledgements
-go to the original anonymous author. I felt an urge to modernize this gem with
-a more suitable layout, https connection and open-sourced code.
+Acknowledgements to [sbmueller](https://github.com/sbmueller) for the [original repository](https://github.com/sbmueller/nohello) and the anonymous author of nohello.com who has given us a resource for sharing with our most _hellowy_ coworkers.
