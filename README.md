@@ -1,6 +1,6 @@
 # Nohello
 
-Spanish translation of [this site](https://sbmueller.github.io/nohello/), you can see the end result [here](https://github.io/jlelizalde/nohello).
+Spanish translation of [this site](https://sbmueller.github.io/nohello/), you can see the end result [here](https://jlelizalde.github.io/nohello/).
 
 ## Build
 
